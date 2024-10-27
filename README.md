@@ -1,3 +1,5 @@
+Arianna Meza
+https://github.com/arimezag/shooter.git
 
 ## Practice with Classes, Booleans, Strings, and Event Handling
 
